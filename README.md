@@ -101,6 +101,10 @@ def get_rating(score):
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/f68243f6-916c-4f78-96dd-dc7f1f243425)
 
+**Feature Importance**
+![image](https://github.com/user-attachments/assets/ffdf5a14-aafa-4a71-baf2-0cc8b0f33f29)
+
+
 ## License
 This project is licensed under the Apache 2.0 License.
 
