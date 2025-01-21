@@ -99,10 +99,10 @@ def get_rating(score):
 - **Platform**: Streamlit Cloud
 
 ## Screenshots
-*(Include relevant screenshots here)*
+![image](https://github.com/user-attachments/assets/f68243f6-916c-4f78-96dd-dc7f1f243425)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
